@@ -1,4 +1,4 @@
-package jika_maka;
+package cobaubah	;
 import java.util.Scanner;
 /**
  *
