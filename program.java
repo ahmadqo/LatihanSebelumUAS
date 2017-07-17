@@ -1,4 +1,4 @@
-package ifElse;
+package jika_maka;
 import java.util.Scanner;
 /**
  *
